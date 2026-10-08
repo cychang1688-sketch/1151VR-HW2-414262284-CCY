@@ -1,7 +1,7 @@
 # 1151VR-HW2-414262284-張智瑜
 
 ## 專案截圖
-請在此放上 Unity 專案截圖。
+![專案截圖](1151VR-HW2-414262284-張智瑜.png)
 
 ## GitHub連結
 https://github.com/cychang1688-sketch/1151VR-HW2-414262284-CCY.git
