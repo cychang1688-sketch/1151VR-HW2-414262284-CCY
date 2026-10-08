@@ -5,6 +5,8 @@
 
 ## GitHub連結
 https://github.com/cychang1688-sketch/1151VR-HW2-414262284-CCY.git
+<img width="1662" height="105" alt="image" src="https://github.com/user-attachments/assets/816ab6c3-f90d-44f6-9135-e777453a1c5a" />
+
 
 ## YouTube連結
 [https://youtu.be/nDjqnEs9wOA](https://youtu.be/7v99slvbJfY
