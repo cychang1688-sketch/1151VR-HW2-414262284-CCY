@@ -7,7 +7,9 @@
 https://github.com/cychang1688-sketch/1151VR-HW2-414262284-CCY.git
 
 ## YouTube連結
-https://youtu.be/nDjqnEs9wOA
+[https://youtu.be/nDjqnEs9wOA](https://youtu.be/7v99slvbJfY
+)<img width="678" height="105" alt="image" src="https://github.com/user-attachments/assets/45910847-e6d4-4c60-a372-c9cff29696b3" />
+
 
 ## 製作流程及相關操作說明
 
