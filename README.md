@@ -10,7 +10,7 @@ https://github.com/cychang1688-sketch/1151VR-HW2-414262284-CCY.git
 https://youtu.be/nDjqnEs9wOA
 
 ## 製作流程及相關操作說明
-本次作業使用 Unity 製作 2D 遊戲場景，匯入小熊角色圖片，並建立地板、障礙物及旗幟終點。角色加入 Rigidbody 2D 與 Box Collider 2D，使角色能正常移動、跳躍。
+本次作業使用 Unity 製作 2D 遊戲場景，匯入小熊角色圖片，並建立地板、障礙物及旗幟終點。角色加入 Rigidbody 2D 與 Box Collider 2D，使角色能正常移動及跳躍。
 
 操作方式為：
 - A 鍵：向左移動
